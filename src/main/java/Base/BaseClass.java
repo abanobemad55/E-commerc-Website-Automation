@@ -17,5 +17,11 @@ public class BaseClass {
 		       driver.manage().window().maximize();
 		        driver.get("https://www.saucedemo.com/");
 	}
+
+
+	public void Testtest(){
+
+		
+	}
 	
 }
